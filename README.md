@@ -1,2 +1,0 @@
-# docacon.com
-docacon.com
